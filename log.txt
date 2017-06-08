@@ -1,0 +1,255 @@
+Thu Jun 08 23:42:33 IDT 2017:INFO:16:Recording paused at: Thu Jun 08 23:42:33 IDT 2017
+Thu Jun 08 23:42:33 IDT 2017:INFO:16:Recording paused at: Thu Jun 08 23:42:33 IDT 2017
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:Args are 0
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:class name: com.geronimo.test.puzzle.PuzzleEx
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:method name: com.geronimo.test.puzzle.PuzzleEx
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:args vals: com.geronimo.test.puzzle.PuzzleEx
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:args vals: String[0]
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:About to create the new class...: com.geronimo.test.puzzle.PuzzleEx
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:Created.
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:About to invoke the method: main
+Thu Jun 08 23:42:34 IDT 2017:INFO:1:Invoked.
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: PuzzleEx(Puzzle) , Parent: Windows added
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: JRootPane(null)[0] , Parent: PuzzleEx(Puzzle) added
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: JPanel(null.glassPane)[0] , Parent: JRootPane(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: JLayeredPane(null.layeredPane)[1] , Parent: JRootPane(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: JPanel(null.contentPane)[0] , Parent: JLayeredPane(null.layeredPane)[1] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: JPanel(null)[0] , Parent: JPanel(null.contentPane)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[0] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[1] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[2] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[3] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[4] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[5] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[6] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[7] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[8] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[9] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[10] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:34 IDT 2017:INFO:18:Duplicate component found: MyButton(null)
+Thu Jun 08 23:42:34 IDT 2017:INFO:16:Child: MyButton(null)[11] , Parent: JPanel(null)[0] added
+Thu Jun 08 23:42:37 IDT 2017:INFO:16:Recording at: Thu Jun 08 23:42:37 IDT 2017
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:getPointer  x: 942  y : 493
+Thu Jun 08 23:42:39 IDT 2017:INFO:16:componentHashCode: 334191611
+componentIndex: 8
+nodeDescription: MyButton(null)[8]
+has Weak Reference: true
+
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:component x: 211 182
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:getPointer  x: 942  y : 493
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:component x: 211 182
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:getPointer  x: 941  y : 487
+Thu Jun 08 23:42:39 IDT 2017:INFO:16:componentHashCode: 671196254
+componentIndex: 11
+nodeDescription: MyButton(null)[11]
+has Weak Reference: true
+
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:component x: 211 122
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:getPointer  x: 934  y : 425
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:component x: 211 62
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:getPointer  x: 934  y : 425
+Thu Jun 08 23:42:39 IDT 2017:INFO:16:componentHashCode: 2103887892
+componentIndex: 5
+nodeDescription: MyButton(null)[5]
+has Weak Reference: true
+
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:component x: 211 122
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:getPointer  x: 934  y : 425
+Thu Jun 08 23:42:39 IDT 2017:INFO:18:component x: 211 122
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:getPointer  x: 919  y : 366
+Thu Jun 08 23:42:40 IDT 2017:INFO:16:componentHashCode: 157420727
+componentIndex: 2
+nodeDescription: MyButton(null)[2]
+has Weak Reference: true
+
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:component x: 211 62
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:getPointer  x: 919  y : 366
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:component x: 211 62
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:getPointer  x: 836  y : 361
+Thu Jun 08 23:42:40 IDT 2017:INFO:16:componentHashCode: 224233924
+componentIndex: 1
+nodeDescription: MyButton(null)[1]
+has Weak Reference: true
+
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:component x: 211 2
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:getPointer  x: 836  y : 361
+Thu Jun 08 23:42:40 IDT 2017:INFO:18:component x: 211 2
+Thu Jun 08 23:42:41 IDT 2017:INFO:18:getPointer  x: 822  y : 448
+Thu Jun 08 23:42:41 IDT 2017:INFO:16:componentHashCode: 479490539
+componentIndex: 4
+nodeDescription: MyButton(null)[4]
+has Weak Reference: true
+
+Thu Jun 08 23:42:41 IDT 2017:INFO:18:component x: 106 2
+Thu Jun 08 23:42:41 IDT 2017:INFO:18:getPointer  x: 821  y : 454
+Thu Jun 08 23:42:41 IDT 2017:INFO:18:component x: 106 2
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:getPointer  x: 816  y : 518
+Thu Jun 08 23:42:42 IDT 2017:INFO:16:componentHashCode: 743406768
+componentIndex: 7
+nodeDescription: MyButton(null)[7]
+has Weak Reference: true
+
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:component x: 106 62
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:getPointer  x: 815  y : 527
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:component x: 106 62
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:getPointer  x: 733  y : 528
+Thu Jun 08 23:42:42 IDT 2017:INFO:16:componentHashCode: 2138893821
+componentIndex: 10
+nodeDescription: MyButton(null)[10]
+has Weak Reference: true
+
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:component x: 106 122
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:getPointer  x: 728  y : 528
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:component x: 106 122
+Thu Jun 08 23:42:42 IDT 2017:INFO:18:getPointer  x: 728  y : 528
+Thu Jun 08 23:42:43 IDT 2017:INFO:16:componentHashCode: 1476794362
+componentIndex: 9
+nodeDescription: MyButton(null)[9]
+has Weak Reference: true
+
+Thu Jun 08 23:42:43 IDT 2017:INFO:18:component x: 106 182
+Thu Jun 08 23:42:43 IDT 2017:INFO:18:getPointer  x: 710  y : 494
+Thu Jun 08 23:42:43 IDT 2017:INFO:18:component x: 106 182
+Thu Jun 08 23:42:43 IDT 2017:INFO:18:getPointer  x: 702  y : 427
+Thu Jun 08 23:42:43 IDT 2017:INFO:16:componentHashCode: 1685611707
+componentIndex: 6
+nodeDescription: MyButton(null)[6]
+has Weak Reference: true
+
+Thu Jun 08 23:42:43 IDT 2017:INFO:18:component x: 1 182
+Thu Jun 08 23:42:43 IDT 2017:INFO:18:getPointer  x: 702  y : 427
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:component x: 1 182
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:getPointer  x: 702  y : 427
+Thu Jun 08 23:42:44 IDT 2017:INFO:16:componentHashCode: 1281393663
+componentIndex: 3
+nodeDescription: MyButton(null)[3]
+has Weak Reference: true
+
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:component x: 1 122
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:getPointer  x: 703  y : 376
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:component x: 1 122
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:getPointer  x: 703  y : 371
+Thu Jun 08 23:42:44 IDT 2017:INFO:16:componentHashCode: 2053337200
+componentIndex: 0
+nodeDescription: MyButton(null)[0]
+has Weak Reference: true
+
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:component x: 1 62
+Thu Jun 08 23:42:44 IDT 2017:INFO:18:getPointer  x: 703  y : 371
+Thu Jun 08 23:42:45 IDT 2017:INFO:18:component x: 1 62
+Thu Jun 08 23:42:46 IDT 2017:INFO:16:Recording paused at: Thu Jun 08 23:42:46 IDT 2017
+Thu Jun 08 23:42:49 IDT 2017:INFO:18:getPointer  x: 705  y : 463
+Thu Jun 08 23:42:49 IDT 2017:INFO:18:getPointer  x: 705  y : 463
+Thu Jun 08 23:42:49 IDT 2017:INFO:18:getPointer  x: 705  y : 463
+Thu Jun 08 23:42:49 IDT 2017:INFO:16:componentHashCode: 1281393663
+componentIndex: 3
+nodeDescription: MyButton(null)[3]
+has Weak Reference: true
+
+Thu Jun 08 23:42:49 IDT 2017:INFO:18:getPointer  x: 705  y : 463
+Thu Jun 08 23:42:50 IDT 2017:INFO:18:getPointer  x: 701  y : 507
+Thu Jun 08 23:42:50 IDT 2017:INFO:16:componentHashCode: 1685611707
+componentIndex: 6
+nodeDescription: MyButton(null)[6]
+has Weak Reference: true
+
+Thu Jun 08 23:42:50 IDT 2017:INFO:18:getPointer  x: 701  y : 507
+Thu Jun 08 23:42:50 IDT 2017:INFO:18:getPointer  x: 768  y : 509
+Thu Jun 08 23:42:50 IDT 2017:INFO:16:componentHashCode: 1476794362
+componentIndex: 9
+nodeDescription: MyButton(null)[9]
+has Weak Reference: true
+
+Thu Jun 08 23:42:51 IDT 2017:INFO:18:getPointer  x: 775  y : 451
+Thu Jun 08 23:42:51 IDT 2017:INFO:18:getPointer  x: 779  y : 432
+Thu Jun 08 23:42:51 IDT 2017:INFO:16:componentHashCode: 2138893821
+componentIndex: 10
+nodeDescription: MyButton(null)[10]
+has Weak Reference: true
+
+Thu Jun 08 23:42:51 IDT 2017:INFO:18:getPointer  x: 783  y : 414
+Thu Jun 08 23:42:51 IDT 2017:INFO:18:getPointer  x: 791  y : 374
+Thu Jun 08 23:42:51 IDT 2017:INFO:16:componentHashCode: 743406768
+componentIndex: 7
+nodeDescription: MyButton(null)[7]
+has Weak Reference: true
+
+Thu Jun 08 23:42:51 IDT 2017:INFO:18:getPointer  x: 791  y : 374
+Thu Jun 08 23:42:52 IDT 2017:INFO:18:getPointer  x: 832  y : 366
+Thu Jun 08 23:42:52 IDT 2017:INFO:16:componentHashCode: 479490539
+componentIndex: 4
+nodeDescription: MyButton(null)[4]
+has Weak Reference: true
+
+Thu Jun 08 23:42:52 IDT 2017:INFO:18:getPointer  x: 850  y : 366
+Thu Jun 08 23:42:52 IDT 2017:INFO:18:getPointer  x: 894  y : 363
+Thu Jun 08 23:42:52 IDT 2017:INFO:16:componentHashCode: 224233924
+componentIndex: 1
+nodeDescription: MyButton(null)[1]
+has Weak Reference: true
+
+Thu Jun 08 23:42:52 IDT 2017:INFO:18:getPointer  x: 894  y : 363
+Thu Jun 08 23:42:53 IDT 2017:INFO:18:getPointer  x: 894  y : 430
+Thu Jun 08 23:42:53 IDT 2017:INFO:16:componentHashCode: 157420727
+componentIndex: 2
+nodeDescription: MyButton(null)[2]
+has Weak Reference: true
+
+Thu Jun 08 23:42:53 IDT 2017:INFO:18:getPointer  x: 894  y : 430
+Thu Jun 08 23:42:53 IDT 2017:INFO:18:getPointer  x: 897  y : 465
+Thu Jun 08 23:42:53 IDT 2017:INFO:16:componentHashCode: 2103887892
+componentIndex: 5
+nodeDescription: MyButton(null)[5]
+has Weak Reference: true
+
+Thu Jun 08 23:42:53 IDT 2017:INFO:18:getPointer  x: 897  y : 471
+Thu Jun 08 23:42:54 IDT 2017:INFO:18:getPointer  x: 897  y : 524
+Thu Jun 08 23:42:54 IDT 2017:INFO:16:componentHashCode: 334191611
+componentIndex: 8
+nodeDescription: MyButton(null)[8]
+has Weak Reference: true
+
+Thu Jun 08 23:42:54 IDT 2017:INFO:18:getPointer  x: 897  y : 524
+Thu Jun 08 23:42:56 IDT 2017:INFO:16:Recording paused at: Thu Jun 08 23:42:56 IDT 2017
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(69,19),absolute(89,555),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on javax.swing.JButton[,12,483,111x42,disabled,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@112663e9,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=file:/C:/Users/GuyMes/Documents/GitHub/ROBOT/build/classes/com/geronimo/robot/images/StepForwardNormalRed.png,disabledIcon=sun.swing.ImageIconUIResource@92d6434,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Play All,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(69,19),absolute(89,555),button=1,modifiers=Button1,clickCount=1] on javax.swing.JButton[,12,483,111x42,disabled,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@112663e9,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=file:/C:/Users/GuyMes/Documents/GitHub/ROBOT/build/classes/com/geronimo/robot/images/StepForwardNormalRed.png,disabledIcon=sun.swing.ImageIconUIResource@92d6434,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Play All,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_CLICKED,(69,19),absolute(89,555),button=1,modifiers=Button1,clickCount=1] on javax.swing.JButton[,12,483,111x42,disabled,alignmentX=0.0,alignmentY=0.5,border=javax.swing.plaf.BorderUIResource$CompoundBorderUIResource@112663e9,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=file:/C:/Users/GuyMes/Documents/GitHub/ROBOT/build/classes/com/geronimo/robot/images/StepForwardNormalRed.png,disabledIcon=sun.swing.ImageIconUIResource@92d6434,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=Play All,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(90,52),absolute(942,493),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,182,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@356cfb43,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@342006c7,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(90,52),absolute(942,493),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,182,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@356cfb43,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@342006c7,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(90,52),absolute(942,493),button=1,modifiers=Button1,extModifiers=Button1,clickCount=2] on com.geronimo.test.puzzle.MyButton[,211,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@5782351e,flags=16777504,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=false,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:32:x or y are negative coordinates! returning.......
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(82,44),absolute(934,425),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@41bb1b76,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@75193d2c,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:57 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(82,44),absolute(934,425),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@41bb1b76,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@75193d2c,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:58 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(67,45),absolute(919,366),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,62,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@55b3ab51,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@135f56e1,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:58 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(67,45),absolute(919,366),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,62,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@55b3ab51,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@135f56e1,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:59 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(89,40),absolute(836,361),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,2,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@7086da74,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@69ff0c96,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:42:59 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(89,40),absolute(836,361),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,211,2,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@7086da74,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@69ff0c96,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:00 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(75,26),absolute(822,407),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,2,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@5126ab89,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@190772db,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:00 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(75,26),absolute(822,407),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,2,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@5126ab89,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@190772db,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:00 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(74,16),absolute(821,457),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,62,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@63fa19c,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@40ac8687,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:00 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(74,16),absolute(821,457),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,62,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@63fa19c,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@40ac8687,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:01 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(68,27),absolute(815,528),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,182,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@401217c1,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@240c8a2a,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:01 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(68,27),absolute(815,528),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@64ae39fa,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@240c8a2a,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:01 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(86,27),absolute(728,528),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,1,182,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@5ffbc3be,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@1fe647b2,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:02 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(86,27),absolute(728,528),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,106,182,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@f877b9f,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@1fe647b2,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:02 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(66,16),absolute(708,457),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,1,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@3705fd47,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@1af3e27c,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:03 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(66,16),absolute(708,457),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,1,182,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@36623e2a,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@1af3e27c,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:03 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_PRESSED,(60,46),absolute(702,427),button=1,modifiers=Button1,extModifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,1,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@76812d5,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@28de0fa,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:03 IDT 2017:INFO:18:NOT listening to events. Event: java.awt.event.MouseEvent[MOUSE_RELEASED,(60,46),absolute(702,427),button=1,modifiers=Button1,clickCount=1] on com.geronimo.test.puzzle.MyButton[,1,122,105x60,alignmentX=0.0,alignmentY=0.5,border=javax.swing.border.LineBorder@76812d5,flags=296,maximumSize=,minimumSize=,preferredSize=,defaultIcon=javax.swing.ImageIcon@28de0fa,disabledIcon=,disabledSelectedIcon=,margin=javax.swing.plaf.InsetsUIResource[top=2,left=14,bottom=2,right=14],paintBorder=true,paintFocus=true,pressedIcon=,rolloverEnabled=true,rolloverIcon=,rolloverSelectedIcon=,selectedIcon=,text=,defaultCapable=true]
+Thu Jun 08 23:43:04 IDT 2017:INFO:18:getPointer  x: 703  y : 371
+Thu Jun 08 23:43:04 IDT 2017:INFO:16:componentHashCode: 2053337200
+componentIndex: 0
+nodeDescription: MyButton(null)[0]
+has Weak Reference: true
+
+Thu Jun 08 23:43:04 IDT 2017:INFO:18:getPointer  x: 703  y : 371

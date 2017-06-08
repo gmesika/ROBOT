@@ -1,0 +1,17 @@
+#AIF Configurations. Stored : Thu Apr 23 23:22:51 IDT 2015
+#Thu Apr 23 23:22:51 IDT 2015
+AscRootNode=/
+WS_Vendors=Awsi;
+AwsiWarPath=
+OutputPath=
+Aif_Home=
+Categories=rO0ABXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAA\=
+BaselineVersion=
+RepositoryRoot=/elemnts
+AWSI_Old_Header_Wsdl_Import=false
+ValidTypes=char;char;long;long;float;float;short;short;int;int;Date;java.util.Date;String;java.lang.String;double;double;boolean;boolean;byte;byte;
+eclipse.preferences.version=1
+CustomizationLevel=0
+DataMapVerifyExpressions=false
+AscRootPath=
+AllowArbitraryJavaClassForBaseType=false

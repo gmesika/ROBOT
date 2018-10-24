@@ -253,3 +253,10 @@ nodeDescription: MyButton(null)[0]
 has Weak Reference: true
 
 Thu Jun 08 23:43:04 IDT 2017:INFO:18:getPointer  x: 703  y : 371
+
+
+
+
+
+
+
